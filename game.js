@@ -11,7 +11,7 @@ let availableQuesions = [];
 
 let questions = [
   {
-    question: "Inside which HTML element do we put the JavaScript??",
+    question: "Dentro de qual elemento HTML colocamos o JavaScript??",
     choice1: "<script>",
     choice2: "<javascript>",
     choice3: "<js>",
@@ -20,7 +20,7 @@ let questions = [
   },
   {
     question:
-      "What is the correct syntax for referring to an external script called 'xxx.js'?",
+      "Qual é a sintaxe correta para se referir a um script chamado externamente 'xxx.js'?",
     choice1: "<script href='xxx.js'>",
     choice2: "<script name='xxx.js'>",
     choice3: "<script src='xxx.js'>",
@@ -28,7 +28,7 @@ let questions = [
     answer: 3
   },
   {
-    question: " How do you write 'Hello World' in an alert box?",
+    question: "Como você escreve 'Hello World' em um alerta?",
     choice1: "msgBox('Hello World');",
     choice2: "alertBox('Hello World');",
     choice3: "msg('Hello World');",
